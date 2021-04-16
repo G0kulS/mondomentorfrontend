@@ -1,0 +1,38 @@
+.createbtn
+{
+  position: fixed;
+  top:30vh;
+  margin-bottom: 10vh;
+}
+.center
+{
+  position: relative;
+  top: 30vh;
+}
+.createbtn1
+{
+  position: fixed;
+  top:40vh;
+  margin-bottom: 10vh;
+}
+.bt 
+{
+  position:absolute;
+  
+}
+.corner
+{
+  position: absolute;
+  left:85vh;
+  bottom: 1px;
+  
+}
+.cl
+{
+  position: absolute;
+  right:5vh;
+}
+.list
+{
+  position: relative;
+}
